@@ -9,3 +9,9 @@ Cursando o sexto semestre do curso integrado ao ensino médio do Instituto Feder
 # Cor favorita 
 
 Roxo
+
+# Idade
+Dezesste anos
+
+# Lendo
+Filho de Netuno
